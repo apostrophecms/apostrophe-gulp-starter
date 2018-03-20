@@ -1,7 +1,7 @@
 {
   "name": "apostrophe-gulp-starter",
   "version": "1.0.0",
-  "description": "front-end starter",
+  "description": "apostrophe Gulp.js starter",
   "main": "gulpfile.babel.js",
   "scripts": {
     "start": "concurrently --kill-others \"gulp\"",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/punkave/starter.git"
+    "url": "git+https://github.com/apostrophecms/apostrophe-gulp-starter.git"
   },
   "author": "P'unk Ave",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/punkave/starter/issues"
+    "url": "https://github.com/apostrophecms/apostrophe-gulp-starterissues"
   },
-  "homepage": "https://github.com/punkave/starter#readme",
+  "homepage": "https://github.com/apostrophecms/apostrophe-gulp-starter#readme",
   "devDependencies": {
     "babel-core": "^6.25.0",
     "babel-preset-env": "^1.6.0",
